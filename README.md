@@ -96,7 +96,7 @@ More coming... here is an example for now
         category:"myCategory-Timing",
         label:"myLabel",
         name:"myName",
-        time:1
+        value:1
     });
 ~~~
 
